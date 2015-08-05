@@ -1,7 +1,7 @@
 {
   "name": "app-context-connie",
   "description": "connie initializer for app-context",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/mattinsler/app-context-connie",
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "connie": "0.0.1"
+    "connie": "0.0.2"
   },
   "devDependencies": {},
   "keywords": [
