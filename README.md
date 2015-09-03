@@ -1,4 +1,4 @@
-# app-context-connie-firebase
+# app-context-connie
 
 [connie](https://www.npmjs.com/package/connie) initializer for [app-context](https://www.npmjs.com/package/app-context)
 
